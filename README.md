@@ -7,3 +7,4 @@ Technologies used:
 - GraphQL-Express
 - Axios
 - Sheety API
+- Nodemon
